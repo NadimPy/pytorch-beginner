@@ -7,7 +7,6 @@
 import matplotlib.pyplot as plt
 import torch
 from torch import nn
-from torch.autograd import Variable
 
 x_train = torch.tensor([[3.3], [4.4], [5.5], [6.71], [6.93], [4.168],
                     [9.779], [6.182], [7.59], [2.167], [7.042],
